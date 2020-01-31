@@ -13,13 +13,13 @@ Connection to the internet is needed for this to work. Umberto does not store an
 ### Demo
 
 
-## Authors
+## Author
 
 * [**Florian Qengaj**](https://github.com/FQengaj)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU Lesser General Public License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
