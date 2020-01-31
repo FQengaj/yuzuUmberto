@@ -15,7 +15,7 @@ Connection to the internet is needed for this to work. Umberto does not store an
 
 ## Authors
 
-* **Florian Qengaj** - -[Florian Qengaj](https://github.com/Flo)
+* [**Florian Qengaj**](https://github.com/FQengaj)
 
 ## License
 
