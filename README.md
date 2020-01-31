@@ -19,7 +19,7 @@ Connection to the internet is needed for this to work. Umberto does not store an
 
 ## License
 
-This project is licensed under the GNU Lesser General Public License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU Lesser General Public License v3.0 - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
