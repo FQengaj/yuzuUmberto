@@ -5,7 +5,7 @@ Umberto is a CLI-Program written in Pyhton that lets you create a Watchlist and 
 
 ## Getting Started
 
-You can Download the Umberto from *here* ADD URL LINK!!!
+You can Download the Umberto from [here](/dist/Umberto For Yuzu.exe)
 Thats it you are good to Go.
 
 ## Useage
